@@ -1,0 +1,31 @@
+{
+  "name": "cheated-learning",
+  "version": "1.0.0",
+  "description": "A website where we are scoping to learn easier with posting cheats to lessons or play flashcards to memorize answers from our lessons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/cheated-learning.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Wuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/cheated-learning/issues"
+  },
+  "homepage": "https://github.com/github.com/cheated-learning#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jquery": "^3.7.0",
+    "sqlite3": "^5.1.6"
+  }
+}
